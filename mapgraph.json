@@ -934,5 +934,47 @@
     "Świątynia Hebrehotha - sala czciciela",
     "Świątynia Hebrehotha - sala ofiary",
     "Pustynia Shaiharrud - wschód"
+  ],
+  "Przełęcz Łotrzyków": [
+    "Dolina Rozbójników",
+    "Orla Grań",
+    "Pagórki Łupieżców"
+  ],
+  "Dolina Rozbójników": [
+    "Przełęcz Łotrzyków",
+    "Mokradła",
+    "Kamienna Kryjówka",
+    "Ghuli Mogilnik"
+  ],
+  "Ghuli Mogilnik": [
+    "Dolina Rozbójników",
+    "Polana Ścierwojadów",
+    "Zapomniany Grobowiec p.1",
+    "Warczące Osuwiska"
+  ],
+  "Mokradła": [
+    "Podmokła Dolina",
+    "Dolina Rozbójników",
+    "Fort Eder",
+    "Zajazd pod Zielonym Jednorożcem",
+    "Polana Ścierwojadów",
+    "Skarpiska Tolloków"
+  ],
+  "Podmokła Dolina": [
+    "Jaskinia Pogardy<br>Przejście dostępne do 53 poziomu",
+    "Morwowe Przejście",
+    "Las Goblinów",
+    "Mokradła"
+  ],
+  "Skarpiska Tolloków": [
+    "Mokradła",
+    "Polana Ścierwojadów",
+    "Skalne Turnie"
+  ],
+  "Polana Ścierwojadów": [
+    "Mokradła",
+    "Ghuli Mogilnik",
+    "Skarpiska Tolloków",
+    "Legowisko Wilczej Hordy"
   ]
 }
