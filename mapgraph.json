@@ -1,3 +1,938 @@
 {
-  
+  "Ithan": [
+    "Porzucone Pasieki",
+    "Dom Huslina",
+    "Strażnica północno-zachodnia",
+    "Dom sióstr",
+    "Stary magazyn",
+    "Zajazd u Makiny",
+    "Strażnica południowo-zachodnia",
+    "Dom Roana",
+    "Ratusz Ithan",
+    "Dom Aukcyjny",
+    "Strażnica południowo-wschodnia",
+    "Zniszczone Opactwo",
+    "Gildia Nerthusa - przedsionek",
+    "Pod Rozbrykanym Niziołkiem",
+    "Dom Eldrika",
+    "Szkoła",
+    "Baraki",
+    "Kopalnia Dogoran p.1",
+    "Strażnica północno-wschodnia",
+    "Dom Unila",
+    "Wioska Gnolli",
+    "Jaskinia Łowców p.1",
+    "Jaskinia Łowców p.2",
+    "Dolina Yss"
+  ],
+  "Zniszczone Opactwo": [
+    "Uroczysko",
+    "Piekielna Grota p.1",
+    "Domek Hektora<br>(Wymaga klucza)",
+    "Prywatna jaskinia<br>(Wymaga klucza)",
+    "Ithan",
+    "Zburzona Twierdza",
+    "Opactwo",
+    "Dom Paladiego<br>(Wymaga klucza)",
+    "Granitowa Jaskinia",
+    "Leśny Bród"
+  ],
+  "Leśny Bród": [
+    "Zniszczone Opactwo",
+    "Mrówcza Kolonia p.1 - lewy tunel",
+    "Dolina Yss",
+    "Mrówcza Kolonia p.1 - prawy tunel"
+  ],
+  "Dolina Yss": [
+    "Ithan",
+    "Namiot ubogich ludzi",
+    "Opuszczona Grota",
+    "Wilczy Szpic",
+    "Leśny Bród",
+    "Jaskinia Medytacji Tududu",
+    "Dom Kastora",
+    "Siedziba Furiatów<br>(Wymaga klucza)",
+    "Magiczna Twierdza Alchemików<br>(Wymaga klucza)",
+    "Domek Tibora<br>(Wymaga klucza)",
+    "Orla Grań"
+  ],
+  "Orla Grań": [
+    "Dolina Yss",
+    "Przełęcz Łotrzyków",
+    "Spustoszona jaskinia",
+    "Stare Ruiny",
+    "Przejście Myśliwych p.2",
+    "Przeklęta Strażnica p.2",
+    "Przeklęta Strażnica",
+    "Przejście Myśliwych p.1",
+    "Dziewicza Knieja"
+  ],
+  "Stare Ruiny": [
+    "Wilczy Szpic",
+    "Dom Grambera",
+    "Przeklęty Zamek - wejście północne",
+    "Orla Grań",
+    "Torneg",
+    "Przeklęty Zamek - wejście południowe",
+    "Przeklęty Zamek - wejście wschodnie",
+    "Przeklęty Zamek p.2",
+    "Dziewicza Knieja",
+    "Zatopiony Szczyt"
+  ],
+  "Wilczy Szpic": [
+    "Łany Zboża",
+    "Dolina Yss",
+    "Jaskinia Wilczego Zamętu p.2",
+    "Jaskinia Wilczego Zamętu p.1",
+    "Stare Ruiny"
+  ],
+  "Łany Zboża": [
+    "Mrowisko",
+    "Wilczy Szpic",
+    "Młyn",
+    "Piekarnia",
+    "Magazyn",
+    "Kopiec Mrówek",
+    "Dom Mazteni i Ułtana",
+    "Oberża pod Złotym Kłosem",
+    "Torneg"
+  ],
+  "Torneg": [
+    "Łany Zboża",
+    "Dom Mira",
+    "Zielna Grota p.1 - sala 1",
+    "Dom Szagarata",
+    "Kurnik",
+    "Dom Galisa",
+    "Dom Antoniego",
+    "Dom Toksyniusza",
+    "Dom Salome",
+    "Zajazd Umbara",
+    "Dom Cedrika",
+    "Stare Ruiny",
+    "Zapomniany Las<br>(Wymaga klucza)<br>Przejście dostępne od 160 poziomu",
+    "Dom Alrika",
+    "Dom Moliwii",
+    "Dom Idalii",
+    "Dom Wei",
+    "Dom Sary",
+    "Zakon Białej Lilii - kaplica",
+    "Dom Barabasza",
+    "Dom Syntii i Leona",
+    "Leśna Przełęcz"
+  ],
+  "Leśna Przełęcz": [
+    "Torneg",
+    "Dom Vincenta",
+    "Zatopiony Szczyt",
+    "Lisia jama",
+    "Kryjówka Dzikich Kotów",
+    "Tygrysia Polana"
+  ],
+  "Mythar": [
+    "Smocze Góry",
+    "Dom Saprasa",
+    "Zawiły Bór",
+    "Dom Walasara",
+    "Izba Pamięci",
+    "Dom Jemenossa",
+    "Dom Felkissiana",
+    "Kuźnia Frassona",
+    "Dom Krassa",
+    "Dom Essy i Frassona",
+    "Dom Węży",
+    "Siedziba Ergassaj",
+    "Dom Umplecji i Kiliona",
+    "Dom Trajnaloka",
+    "Dom Lussa",
+    "Dom Angussa",
+    "Dom Lassindy i Limerusa",
+    "Alabastrowy Hotel",
+    "Sala Zgromadzeń",
+    "Dom Liszli i Semkosa",
+    "Dom Presztreka",
+    "Urwisko Zdrewniałych",
+    "Złowrogie Bagna"
+  ],
+  "Smocze Góry": [
+    "Przełaz olbrzymów",
+    "Smocza Jaskinia",
+    "Selva Oscura",
+    "Mythar"
+  ],
+  "Urwisko Zdrewniałych": [
+    "Wąwóz Zakorzenionych Dusz",
+    "Dolina Chmur<br>Przejście dostępne od 200 poziomu",
+    "Mythar"
+  ],
+  "Złowrogie Bagna": [
+    "Mythar",
+    "Zagrzybiałe Ścieżki p.1 - sala 1",
+    "Błędny Szlak",
+    "Gadzia Kotlina",
+    "Las Dziwów"
+  ],
+  "Błędny Szlak": [
+    "Zawiły Bór",
+    "Złowrogie Bagna",
+    "Ostępy Szalbierskich Lasów"
+  ],
+  "Gadzia Kotlina": [
+    "Wzgórze Płaczek",
+    "Zagrzybiałe Ścieżki p.1 - sala 2",
+    "Złowrogie Bagna",
+    "Mglista Polana Vesy"
+  ],
+  "Las Dziwów": [
+    "Złowrogie Bagna",
+    "Namiot Kambiona<br>Przejście dostępne do 114 poziomu",
+    "Cienisty Bór",
+    "Jaskinia Magów<br>(Wymaga klucza)",
+    "Jezioro Ważek",
+    "Liściaste Rozstaje"
+  ],
+  "Cienisty Bór": [
+    "Ostępy Szalbierskich Lasów",
+    "Zachodnie Rozdroża",
+    "Las Dziwów",
+    "Wyjący Wąwóz"
+  ],
+  "Wyjący Wąwóz": [
+    "Zachodnie Rozdroża",
+    "Cienisty Bór",
+    "Jezioro Ważek",
+    "Wyjąca Jaskinia",
+    "Opuszczona Twierdza",
+    "Babi Wzgórek"
+  ],
+  "Ostępy Szalbierskich Lasów": [
+    "Iglaste Ścieżki",
+    "Siedziba rekieterów",
+    "Chata bandytów",
+    "Błędny Szlak",
+    "Cienisty Bór"
+  ],
+  "Zachodnie Rozdroża": [
+    "Ustronie Widzących Drzew",
+    "Cienisty Bór",
+    "Przepastna Grota p.1",
+    "Góry Zrębowe",
+    "Pieczara Wiatru p.1",
+    "Siedziba Gothic Palladins<br>(Wymaga klucza)",
+    "Opuszczona Twierdza",
+    "Wyjący Wąwóz"
+  ],
+  "Ustronie Widzących Drzew": [
+    "Domek Enyi",
+    "Wrzosowiska",
+    "Zachodnie Rozdroża"
+  ],
+  "Wrzosowiska": [
+    "Ustronie Widzących Drzew",
+    "Werbin"
+  ],
+  "Opuszczona Twierdza": [
+    "Góry Zrębowe",
+    "Zachodnie Rozdroża",
+    "Mała Twierdza - wieża zachodnia",
+    "Mała Twierdza - mały barak",
+    "Mała Twierdza - mury zachodnie",
+    "Wyjący Wąwóz",
+    "Mała Twierdza - sala wejściowa",
+    "Mała Twierdza - wieża strażnicza",
+    "Mała Twierdza - wieża wschodnia",
+    "Zaginiona Dolina",
+    "Czarcie Oparzeliska"
+  ],
+  "Góry Zrębowe": [
+    "Namiot pustelnika",
+    "Brama Północy",
+    "Solna Grota p.1",
+    "Zachodnie Rozdroża",
+    "Zaginiona Dolina",
+    "Opuszczona Twierdza"
+  ],
+  "Zaginiona Dolina": [
+    "Góry Zrębowe",
+    "Brama Północy",
+    "Opuszczona Twierdza",
+    "Grobowiec Przodków"
+  ],
+  "Brama Północy": [
+    "Werbin",
+    "Góry Zrębowe",
+    "Kuźnia na Rozstajach",
+    "Zapomniana kopalnia p.1",
+    "Włości rodu Kruzo",
+    "Siedziba główna klanu Uchiha<br>(Wymaga klucza)",
+    "Zaginiona Dolina",
+    "Liściasta kryjówka<br>(Wymaga klucza)",
+    "Skalista Wyżyna"
+  ],
+  "Werbin": [
+    "Orcza Wyżyna",
+    "Namiot Amry",
+    "Dom Gepperta - warsztat",
+    "Dom Enoliana",
+    "Kopalnia Latimeria p.1",
+    "Dom Barnesa",
+    "Dom Paratoka",
+    "Namiot wiedźmy",
+    "Karczma pod Fioletowym Kryształem",
+    "Kopalnia Inlefi p.1",
+    "Dom Rozalii",
+    "Dom Gindera",
+    "Magazyn Krasnoludów",
+    "Wrzosowiska",
+    "Dom Jalena i Tafii",
+    "Mury - kwatera główna",
+    "Dom Idropusa",
+    "Kopalnia Fretar - sala 1",
+    "Opuszczony dom",
+    "Dom Alabraskana",
+    "Brama Północy"
+  ],
+  "Orcza Wyżyna": [
+    "Grota Orczych Szamanów p.1 s.1",
+    "Grota Orczych Szamanów p.1 s.2",
+    "Upiorna Droga<br>(Wymaga klucza)",
+    "Osada Czerwonych Orków",
+    "Posterunek straży Werbin",
+    "Werbin"
+  ],
+  "Karka-han": [
+    "Dom Lenki",
+    "Drukarnia Zenka",
+    "Kamienica Slina",
+    "Dom Remiusza",
+    "Dom Johana",
+    "Dom Zeiny",
+    "Dom Azalii",
+    "Dom Nufrexa",
+    "Dom Kalicji i Apoksa",
+    "Dom Befry",
+    "Magazyn",
+    "Dom rzeźnika",
+    "Dom Aurelii i Dionizego",
+    "Kamienica Kleofasa",
+    "Tawerna pod Kocim Wąsem",
+    "Prastara Puszcza",
+    "Dom Hergata i Halfinii",
+    "Rozładownia",
+    "Kamienica Newalda",
+    "Dom Anulisa",
+    "Karmazynowa siedziba",
+    "Ratusz Karka-han",
+    "Lochy miejskie<br>(Wymaga klucza)",
+    "Dom Roszana",
+    "Przedmieścia Karka-han",
+    "Karczma pod Złotą Wywerną",
+    "Dom Menarika<br>(Wymaga klucza)",
+    "Gildia Kupców",
+    "Miejska biblioteka",
+    "Dom Inetora",
+    "Dom Konstantego i Forsycji",
+    "Dom płatnerza",
+    "Dom Anzelma",
+    "Pracownia Inetora",
+    "Pracownia płatnerza",
+    "Lecznica dla zwierząt",
+    "Dom Kaliposa",
+    "Nekropolia Karka-han"
+  ],
+  "Prastara Puszcza": [
+    "Karka-han",
+    "Przepaść Aguti",
+    "Ukryty Kanion"
+  ],
+  "Nekropolia Karka-han": [
+    "Karka-han",
+    "Grobowiec Rodziny Tywelta",
+    "Krypta Rodu Heregata"
+  ],
+  "Przedmieścia Karka-han": [
+    "Święty Zagajnik",
+    "Skład Kluspa",
+    "Huta żelaza",
+    "Warsztat miecznika",
+    "Skład surowców",
+    "Przeklęta Pieczara p.1",
+    "Dom Kluspa",
+    "Kopalnia Faluntamir p.1",
+    "Przełęcz Dwóch Koron",
+    "Lokum krasnoludów",
+    "Dom Torina",
+    "Karka-han",
+    "Szyb Mahnior p.1",
+    "Dom Aberyta",
+    "Namiot leśniczego",
+    "Dom Maryśki",
+    "Mistyczny Bór"
+  ],
+  "Przełęcz Dwóch Koron": [
+    "Skalista Wyżyna",
+    "Posterunek",
+    "Przedmieścia Karka-han",
+    "Kryształowa Grota p.1",
+    "Domek Pioruna<br>(Wymaga klucza)",
+    "Wichrowe Szczyty"
+  ],
+  "Skalista Wyżyna": [
+    "Brama Północy",
+    "Ognista Rozpadlina",
+    "Przełęcz Dwóch Koron"
+  ],
+  "Eder": [
+    "Spokojne Przejście",
+    "Dom Mrocznego Zgrzyta",
+    "Teatr Monticolo - foyer",
+    "Opuszczony dom<br>(Wymaga klucza)",
+    "Dom Schadzek",
+    "Teatr Monticolo - wejście od zaplecza<br>(Wymaga klucza)",
+    "Dom Burmistrza",
+    "Magazyn Eder",
+    "Fort Eder",
+    "Siedziba Kultystów",
+    "Rudera<br>(Wymaga klucza)",
+    "Karczma pod Posępnym Czerepem",
+    "Dom Mikliniosa",
+    "Pracownia Bonifacego",
+    "Gościniec Bardów",
+    "Dom Artenii i Tafina",
+    "Targ Poszukiwaczy Przygód",
+    "Dom Erniego",
+    "Zbójecka spiżarnia<br>(Wymaga klucza)",
+    "Siedziba Maga",
+    "Dom Etrefana",
+    "Grota Złoczyńców p.1"
+  ],
+  "Fort Eder": [
+    "Las Goblinów",
+    "Pieczara Niepogody p.2 - sala 2",
+    "Pieczara Niepogody p.1",
+    "Fortyfikacja p.3",
+    "Fortyfikacja p.1",
+    "Eder",
+    "Fortyfikacja p.5",
+    "Mokradła",
+    "Ciemnica Szubrawców p.1 - sala 1",
+    "Stary Kupiecki Trakt"
+  ],
+  "Stary Kupiecki Trakt": [
+    "Fort Eder",
+    "Ciemnica Szubrawców p.1 - sala 3",
+    "Stukot Widmowych Kół",
+    "Moczary Rybiego Oka"
+  ],
+  "Moczary Rybiego Oka": [
+    "Stary Kupiecki Trakt",
+    "Uroczysko Wodnika"
+  ],
+  "Stukot Widmowych Kół": [
+    "Wertepy Rzezimieszków",
+    "Stary Kupiecki Trakt"
+  ],
+  "Wertepy Rzezimieszków": [
+    "Gościniec Bardów",
+    "Stukot Widmowych Kół",
+    "Chata szabrowników",
+    "Źródło Narumi"
+  ],
+  "Gościniec Bardów": [
+    "Racicowy Matecznik",
+    "Eder",
+    "Nizina Wieśniaków",
+    "Wertepy Rzezimieszków"
+  ],
+  "Racicowy Matecznik": [
+    "Ukwiecona Skarpa",
+    "Pieczara Kwiku - sala 1",
+    "Spokojne Przejście",
+    "Gościniec Bardów"
+  ],
+  "Spokojne Przejście": [
+    "Zasłonięte Jezioro",
+    "Racicowy Matecznik",
+    "Eder"
+  ],
+  "Zasłonięte Jezioro": [
+    "Słoneczna Wyżyna",
+    "Kamienne Lokum",
+    "Kamienne Lokum p.1",
+    "Jaskinia Łez",
+    "Spokojne Przejście"
+  ],
+  "Słoneczna Wyżyna": [
+    "Lazurowe Wzgórze",
+    "Zasłonięte Jezioro"
+  ],
+  "Lazurowe Wzgórze": [
+    "Stare lokum bandytów",
+    "Grań Gawronich Piór",
+    "Kwieciste Przejście",
+    "Słoneczna Wyżyna"
+  ],
+  "Grań Gawronich Piór": [
+    "Gvar Hamryd<br>Przejście dostępne od 200 poziomu",
+    "Thuzal",
+    "Lazurowe Wzgórze",
+    "Tajemniczy tunel",
+    "Kaplica",
+    "Błota Sham Al"
+  ],
+  "Błota Sham Al": [
+    "Grań Gawronich Piór",
+    "Ruiny Tass Zhil",
+    "Głusza Świstu"
+  ],
+  "Thuzal": [
+    "Rozlewisko Kai",
+    "Warsztat Drowina",
+    "Dom Drowina",
+    "Żołnierski Korytarz",
+    "Koszary",
+    "Dom Żaka",
+    "Gildia Magów",
+    "Dom Paniki i Llacha",
+    "Gildia Teologów",
+    "Karczma pod Chimerą",
+    "Ratusz Thuzal",
+    "Grań Gawronich Piór",
+    "Gildia Wynalazców",
+    "Skrawek Raju",
+    "Dom Buddenbrooków",
+    "Rezydencja Tussal",
+    "Austeria Karibiego",
+    "Dom Hernaka - stodoła",
+    "Dom Hernaka"
+  ],
+  "Żołnierski Korytarz": [
+    "Thuzal",
+    "Szczerba Samobójców"
+  ],
+  "Szczerba Samobójców": [
+    "Przysiółek Valmirów",
+    "Baszta Puchacza p.1",
+    "Baszta Puchacza",
+    "Żołnierski Korytarz",
+    "Baszta Sowy",
+    "Kwieciste Kresy"
+  ],
+  "Przysiółek Valmirów": [
+    "Rozlewisko Kai",
+    "Śnieżycowy Las",
+    "Szczerba Samobójców"
+  ],
+  "Urwisko Vapora": [
+    "Smocze Skalisko",
+    "Bagna Umarłych"
+  ],
+  "Bagna Umarłych": [
+    "Gnijące Topielisko",
+    "Urwisko Vapora"
+  ],
+  "Gnijące Topielisko": [
+    "Zatrute Torfowiska",
+    "Bagna Umarłych"
+  ],
+  "Zatrute Torfowiska": [
+    "Grzęzawisko Rozpaczy",
+    "Gnijące Topielisko"
+  ],
+  "Grzęzawisko Rozpaczy": [
+    "Płaskowyż Arpan",
+    "Złote Piaski",
+    "Dolina Pełznącego Krzyku",
+    "Zatrute Torfowiska"
+  ],
+  "Dolina Pełznącego Krzyku": [
+    "Grzęzawisko Rozpaczy",
+    "Złota Dąbrowa"
+  ],
+  "Złota Dąbrowa": [
+    "Dolina Pełznącego Krzyku",
+    "Skryty Azyl",
+    "Oślizgłe Przejście - sala 1",
+    "Oślizgłe Przejście - sala 2",
+    "Mglisty Las"
+  ],
+  "Mglisty Las": [
+    "Złota Dąbrowa",
+    "Mechata Jama p.1 - sala 2",
+    "Mechata Jama p.2",
+    "Mechata Jama p.1 - sala 1",
+    "Jaszczurza Nora",
+    "Grota Porośniętych Stalagmitów - sala wyjściowa"
+  ],
+  "Oślizgłe Przejście - sala 2": [
+    "Oślizgłe Przejście - sala 1",
+    "Złota Dąbrowa"
+  ],
+  "Oślizgłe Przejście - sala 1": [
+    "Złota Dąbrowa",
+    "Oślizgłe Przejście - sala 2"
+  ],
+  "Skryty Azyl": [
+    "Jaszczurze Korytarze p.4 - sala 1",
+    "Jaszczurze Korytarze p.5",
+    "Złota Dąbrowa",
+    "Jaszczurze Korytarze p.3 - sala 1",
+    "Błotna Grota p.1",
+    "Jaszczurze Korytarze p.1",
+    "Błotna Grota p.2",
+    "Jaszczurze Korytarze p.2",
+    "Jaszczurze Korytarze p.3 - sala 2",
+    "Jaszczurze Korytarze p.4 - sala 2",
+    "Podziemne Źródło",
+    "Jaszczurze Korytarze p.4 - sala 3",
+    "Jaszczurze Korytarze p.3 - sala 3",
+    "Zawodzące Kaskady"
+  ],
+  "Zawodzące Kaskady": [
+    "Skryty Azyl",
+    "Mglista Grota p.2",
+    "Mglista Grota - sala wyjściowa",
+    "Przedsionek Mglistej Groty",
+    "Głuchy Las",
+    "Mglista Grota p.1 - sala 1"
+  ],
+  "Głuchy Las": [
+    "Skarpa Trzech Słów",
+    "Zawodzące Kaskady<br>(Wymaga klucza)",
+    "Kwieciste Przejście"
+  ],
+  "Kwieciste Przejście": [
+    "Głuchy Las",
+    "Dom Tunii",
+    "Złudny Trakt",
+    "Lazurowe Wzgórze",
+    "Ukwiecona Skarpa"
+  ],
+  "Skarpa Trzech Słów": [
+    "Zapomniana Ścieżyna",
+    "Głuchy Las"
+  ],
+  "Zapomniana Ścieżyna": [
+    "Liściaste Rozstaje",
+    "Skarpa Trzech Słów"
+  ],
+  "Liściaste Rozstaje": [
+    "Las Dziwów",
+    "Sosnowe Odludzie",
+    "Jezioro Ważek",
+    "Grota Samotnych Dusz p.3 - sala wyjściowa",
+    "Zapomniana Ścieżyna"
+  ],
+  "Jezioro Ważek": [
+    "Las Dziwów",
+    "Wyjący Wąwóz",
+    "Przepaść Zadumy - przedsionek<br>Przejście dostępne od 130 do 169 poziomu",
+    "Liściaste Rozstaje",
+    "Góralskie Przejście"
+  ],
+  "Sosnowe Odludzie": [
+    "Księżycowe Wzniesienie",
+    "Chodniki Mrinding",
+    "Liściaste Rozstaje",
+    "Podziemne Rozpadliny"
+  ],
+  "Księżycowe Wzniesienie": [
+    "Trupia Przełęcz",
+    "Mglista Polana Vesy",
+    "Zapomniany Święty Gaj p.1",
+    "Sosnowe Odludzie"
+  ],
+  "Mglista Polana Vesy": [
+    "Gadzia Kotlina",
+    "Wzgórze Płaczek",
+    "Zagrzybiałe Ścieżki p.1 - sala 3",
+    "Księżycowe Wzniesienie"
+  ],
+  "Trupia Przełęcz": [
+    "Niecka Xiuh Atl<br>Przejście dostępne od 200 poziomu",
+    "Kamienna Strażnica - zach. baszta p.2",
+    "Zabłocona Jama p.1 - sala 2",
+    "Namiot kościarza",
+    "Płaskowyż Arpan",
+    "Grota Samotnych Dusz p.1",
+    "Wzgórze Płaczek",
+    "Kamienna Strażnica - wsch. baszta p.1",
+    "Księżycowe Wzniesienie"
+  ],
+  "Wzgórze Płaczek": [
+    "Gadzia Kotlina",
+    "Płacząca Grota p.1 - sala 1",
+    "Trupia Przełęcz",
+    "Płacząca Grota p.1 - sala 2",
+    "Mglista Polana Vesy"
+  ],
+  "Niecka Xiuh Atl": [
+    "Altepetl Mahoptekan",
+    "Sucha Dolina",
+    "Oztotl Tzacua p.1 s.1",
+    "Dolina Chmur",
+    "Chantli Cuaitla Citlalina",
+    "Chantli",
+    "Oztotl Tzacua p.1 s.2",
+    "Oztotl Tzacua p.3 s.2",
+    "Płaskowyż Arpan",
+    "Oztotl Tzacua p.4 s.2",
+    "Oztotl Tzacua p.5",
+    "Trupia Przełęcz"
+  ],
+  "Dolina Chmur": [
+    "Regiel Zabłąkanych",
+    "Altepetl Mahoptekan",
+    "Złota Góra p.1 sala 3",
+    "Złota Góra p.2 sala 2",
+    "Urwisko Zdrewniałych",
+    "Złota Góra p.1 sala 1",
+    "Złota Góra p.3",
+    "Złota Góra p.2 sala 3",
+    "Niecka Xiuh Atl",
+    "Złota Góra p.1 sala 2"
+  ],
+  "Altepetl Mahoptekan": [
+    "Dolina Pustynnych Kręgów",
+    "Zachodni Mictlan p.1",
+    "Dolina Chmur",
+    "Topan p.1",
+    "Wschodni Mictlan p.1",
+    "Niecka Xiuh Atl"
+  ],
+  "Płaskowyż Arpan": [
+    "Sucha Dolina",
+    "Niecka Xiuh Atl<br>Przejście dostępne od 200 poziomu",
+    "Oaza Siedmiu Wichrów",
+    "Trupia Przełęcz",
+    "Złote Piaski",
+    "Skalne Cmentarzysko p.1",
+    "Grzęzawisko Rozpaczy<br>Przejście dostępne od 200 poziomu"
+  ],
+  "Złote Piaski": [
+    "Oaza Siedmiu Wichrów",
+    "Ciche Rumowiska",
+    "Płaskowyż Arpan",
+    "Piramida Pustynnego Władcy p.1",
+    "Dolina Suchych Łez",
+    "Grzęzawisko Rozpaczy<br>Przejście dostępne od 200 poziomu",
+    "Ruiny Pustynnych Burz"
+  ],
+  "Oaza Siedmiu Wichrów": [
+    "Stare Sioło",
+    "Płaskowyż Arpan",
+    "Ciche Rumowiska",
+    "Złote Piaski"
+  ],
+  "Sucha Dolina": [
+    "Dolina Pustynnych Kręgów",
+    "Grobowiec Nieznających Spokoju",
+    "Niecka Xiuh Atl<br>Przejście dostępne od 200 poziomu",
+    "Stare Sioło",
+    "Płaskowyż Arpan"
+  ],
+  "Dolina Pustynnych Kręgów": [
+    "Piaskowa Gęstwina",
+    "Źródło Zakorzenionego Ludu",
+    "Piachy Zniewolonych",
+    "Kopalnia Żółtego Kruszcu p.1 - sala 1 ",
+    "Altepetl Mahoptekan<br>Przejście dostępne od 200 poziomu",
+    "Siedziba goblinów",
+    "Sucha Dolina"
+  ],
+  "Stare Sioło": [
+    "Piachy Zniewolonych",
+    "Dom Namianaszi",
+    "Gospodarstwo Balko",
+    "Magazyn rodziny Balko",
+    "Siedziba Straży Bramy",
+    "Tuzmer",
+    "Gospodarstwo Erdy",
+    "Sucha Dolina",
+    "Dom Cynamonii",
+    "Oaza Siedmiu Wichrów"
+  ],
+  "Tuzmer": [
+    "Ruchome Piaski",
+    "Łaźnia damska - szatnia",
+    "Dom Wirkliusza Runaberda",
+    "Łaźnia p.1",
+    "Łaźnia męska - szatnia",
+    "Kamienica Bursztynek<br>(Wymaga klucza)",
+    "Dom Mei Shang Lii",
+    "Dom Randala Rotguta",
+    "Dom Rajwosa",
+    "Dom Keftii",
+    "Dom Toramidamusa",
+    "Arena Gladiatorów",
+    "Dom Bernarda",
+    "Dom dziadka Jeżyka",
+    "Tawerna pod Beczką Śledzi - mieszkanie",
+    "Tawerna pod Beczką Śledzi",
+    "Dom Piwocji",
+    "Dom Flopka",
+    "Dom Telsara",
+    "Warsztat kowala Kalpusa",
+    "Dom Adanny",
+    "Dom Horsfei",
+    "Dom Erkora",
+    "Dom Hengadze",
+    "Port Tuzmer",
+    "Stare Sioło",
+    "Magistrat p.2",
+    "Magistrat",
+    "Posterunek",
+    "Dom Senekjusza",
+    "Dom Seridiusza",
+    "Dom Krosnego",
+    "Dom Anecji",
+    "Dom Losso Minewita",
+    "Dom Aurusa",
+    "Dom Mii",
+    "Dom Jallosa",
+    "Dom Klacynii",
+    "Dom Leksosa",
+    "Kamienica Wernaidy",
+    "Wartownia",
+    "Wartownia p.1",
+    "Zajazd pod Różą Wiatrów",
+    "Zajazd pod Różą Wiatrów p.1",
+    "Ciche Rumowiska"
+  ],
+  "Port Tuzmer": [
+    "Latarniane Wybrzeże",
+    "Dom Zimpo - strych",
+    "Pracownia krawiecka Sericji i Callusa p.1",
+    "Dom Sericji i Callusa",
+    "Dom Zimpo",
+    "Sierociniec",
+    "Dom Orfelii",
+    "Magazyn Orfelii",
+    "Dom Gopisa",
+    "Piracka Kryjówka",
+    "Magazyn rybny",
+    "Dom sir Glusmoronka",
+    "Magazyn",
+    "Kapitanat Portu",
+    "Dom Jankerta",
+    "Magazyn z rybami Alfreda",
+    "Kuźnia Kendala",
+    "Dom Alfreda",
+    "Dom Parmina",
+    "Tuzmer",
+    "Dom Leinne",
+    "Opuszczony dom",
+    "Siedziba Straży Portowej - zbrojownia<br>(Wymaga klucza)",
+    "Dom Patercji",
+    "Siedziba Straży Portowej",
+    "Dom Patercji p.1",
+    "Pokład Szarej Mewy",
+    "Dom Trosa i Idai",
+    "Dom Dereka i Karapo",
+    "Dom rybaka Yarte",
+    "Magazyn Trosa",
+    "Chata Ficjusza",
+    "Dom Flarencji",
+    "Dom kaletnika Jędrzeja",
+    "Tawerna pod Bosmańskim Biczem",
+    "Gildia Kupiecka",
+    "Dom Samiry",
+    "Opuszczona chata",
+    "Prochownia",
+    "Dom Sinis p.1",
+    "Dom szkutnika Verne",
+    "Wioska Rybacka"
+  ],
+  "Latarniane Wybrzeże": [
+    "Korsarska Nora - sala 1",
+    "Latarnia",
+    "Stodoła",
+    "Stajnia",
+    "Dom stajennego",
+    "Ukryta Grota Morskich Diabłów",
+    "Ruchome Piaski",
+    "Dom latarnika",
+    "Tawerna pod Szemrzącą Beczułką",
+    "Port Tuzmer"
+  ],
+  "Wioska Rybacka": [
+    "Port Tuzmer",
+    "Chata Lomalandiego",
+    "Ciche Rumowiska",
+    "Dom Hawaikiego",
+    "Chata Króla Rybaka",
+    "Dom Rongo",
+    "Dom Tane",
+    "Jaskinia Hoskarii",
+    "Pusty dom"
+  ],
+  "Ciche Rumowiska": [
+    "Tuzmer",
+    "Oaza Siedmiu Wichrów",
+    "Wioska Rybacka",
+    "Złote Piaski",
+    "Dolina Suchych Łez"
+  ],
+  "Dolina Suchych Łez": [
+    "Ciche Rumowiska",
+    "Złote Piaski",
+    "Przybytek Bogini Wojny",
+    "Skały Umarłych"
+  ],
+  "Skały Umarłych": [
+    "Dolina Suchych Łez",
+    "Smocze Skalisko",
+    "Pustynia Shaiharrud - zachód"
+  ],
+  "Smocze Skalisko": [
+    "Ruiny Pustynnych Burz",
+    "Skały Umarłych",
+    "Jaskinia Sępa s.2",
+    "Jaskinia Sępa s.1",
+    "Pustynia Shaiharrud - zachód",
+    "Urwisko Vapora"
+  ],
+  "Ruiny Pustynnych Burz": [
+    "Złote Piaski",
+    "Pustynne Katakumby<br>(Wymaga klucza)",
+    "Smocze Skalisko"
+  ],
+  "Jaskinia Sępa s.2": [
+    "Smocze Skalisko",
+    "Jaskinia Sępa s.1"
+  ],
+  "Jaskinia Sępa s.1": [
+    "Jaskinia Sępa s.2",
+    "Smocze Skalisko"
+  ],
+  "Pustynia Shaiharrud - zachód": [
+    "Skały Umarłych",
+    "Namiot Gwardii Smokoszczękich",
+    "Smocze Skalisko",
+    "Jurta Chaegda",
+    "Jurta Czcicieli",
+    "Jaskinia Smoczej Paszczy p.1",
+    "Jaskinia Szczęk",
+    "Sępiarnia",
+    "Namiot Piechoty Piłowej",
+    "Namiot Naznaczonych",
+    "Jaskinia Piaskowej Burzy s.1",
+    "Pustynia Shaiharrud - wschód"
+  ],
+  "Pustynia Shaiharrud - wschód": [
+    "Pustynia Shaiharrud - zachód",
+    "Jaskinia Próby",
+    "Namiot Błogosławionych",
+    "Jaskinia Odwagi",
+    "Jurta Nomadzka",
+    "Namiot Pustynnych Smoków",
+    "Świątynia Hebrehotha - przedsionek",
+    "Grota Poświęcenia",
+    "Sekretne Przejście Kapłanów<br>Przejście dostępne od 272 poziomu"
+  ],
+  "Świątynia Hebrehotha - przedsionek": [
+    "Świątynia Hebrehotha - sala czciciela",
+    "Świątynia Hebrehotha - sala ofiary",
+    "Pustynia Shaiharrud - wschód"
+  ]
 }
